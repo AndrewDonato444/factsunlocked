@@ -1,0 +1,68 @@
+{
+  "campaign": "baby-facts-week2",
+  "project_id": "baby-facts-unlocked",
+  "timeframe": "2026-03-23 to 2026-03-27",
+  "created": "2026-03-15",
+  "items": [
+    {
+      "id": "006",
+      "date": "2026-03-23",
+      "platform": "YouTube",
+      "type": "video",
+      "pillar": "surprising-facts",
+      "concept": "Babies are born without kneecaps - they have cartilage that doesn't ossify into bone until 3-6 months",
+      "title": "Babies Are Born Without Kneecaps #BabyFacts #Shorts",
+      "caption": "Your baby literally has NO kneecaps. They're born with soft cartilage instead of bone. It doesn't harden into real kneecaps until 3-6 months old. That's why their little legs are so bendy! #BabyFacts #Shorts #NewbornTrivia #BabyScience",
+      "status": "pending",
+      "scheduled_date": "2026-03-23T15:00:00Z"
+    },
+    {
+      "id": "007",
+      "date": "2026-03-24",
+      "platform": "YouTube",
+      "type": "video",
+      "pillar": "development-milestones",
+      "concept": "Newborns can recognize their mother's voice from birth because they heard it in the womb for months",
+      "title": "Your Baby Already Knows Your Voice #BabyFacts #Shorts",
+      "caption": "Your newborn already knows who you are. Babies can recognize their mother's voice from the moment they're born because they've been listening to it for months in the womb. Studies show they even prefer mom's voice over strangers. #BabyFacts #Shorts #NewMom #BabyDevelopment",
+      "status": "pending",
+      "scheduled_date": "2026-03-24T15:00:00Z"
+    },
+    {
+      "id": "008",
+      "date": "2026-03-25",
+      "platform": "YouTube",
+      "type": "video",
+      "pillar": "baby-science",
+      "concept": "Babies double their birth weight by 5 months - the fastest growth rate of their entire life",
+      "title": "Babies Double Their Weight in 5 Months #BabyFacts #Shorts",
+      "caption": "Imagine doubling YOUR weight in 5 months. That's exactly what your baby does. The first year is the fastest growth period in a human's entire life. If adults grew at the same rate, we'd weigh 300+ pounds by summer. #BabyFacts #Shorts #BabyGrowth #ParentingFacts",
+      "status": "pending",
+      "scheduled_date": "2026-03-25T15:00:00Z"
+    },
+    {
+      "id": "009",
+      "date": "2026-03-26",
+      "platform": "YouTube",
+      "type": "video",
+      "pillar": "baby-science",
+      "concept": "Newborns have an instinctive swimming reflex - they'll hold their breath and move their arms when submerged",
+      "title": "Newborns Can Swim (Sort Of) #BabyFacts #Shorts",
+      "caption": "Your newborn was born knowing how to swim. Kind of. It's called the dive reflex - when submerged, babies instinctively hold their breath and move their arms and legs. This reflex disappears around 6 months. #BabyFacts #Shorts #BabyScience #NewbornReflex",
+      "status": "pending",
+      "scheduled_date": "2026-03-26T15:00:00Z"
+    },
+    {
+      "id": "010",
+      "date": "2026-03-27",
+      "platform": "YouTube",
+      "type": "video",
+      "pillar": "surprising-facts",
+      "concept": "Babies have 10,000 taste buds compared to adults' 5,000 - they cover the roof, sides, and back of the mouth",
+      "title": "Babies Can Taste MORE Than You #BabyFacts #Shorts",
+      "caption": "Your baby can taste more than you can. Babies are born with about 10,000 taste buds, nearly double what adults have. They're everywhere - tongue, roof of mouth, even the back of the throat. No wonder they're so picky! #BabyFacts #Shorts #BabyScience #ParentingTips",
+      "status": "pending",
+      "scheduled_date": "2026-03-27T15:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+node_modules/
+out/
+dist/
+*.mp4
+package-lock.json
+*.wav
+DonatoSkills/
