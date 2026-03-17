@@ -82,6 +82,44 @@
         "youtube": "69b801490c4fc4edec1d54c6",
         "tiktok": "69b801570c4fc4edec1d5505"
       }
+    },
+    {
+      "id": "012",
+      "date": "2026-03-28",
+      "platform": "YouTube+TikTok",
+      "type": "video",
+      "pillar": "baby-science",
+      "concept": "Babies are born with a grip so strong they can support their own body weight. It's called the palmar grasp reflex — an ancient primate instinct. The reflex fades by about 6 months as voluntary grasping takes over.",
+      "title": "Your Baby's Grip Can Hold Their ENTIRE Body Weight #BabyFacts #Shorts",
+      "caption_youtube": "Your newborn's grip is strong enough to hold their entire body weight. It's called the palmar grasp reflex — an ancient instinct from when baby primates had to cling to their mothers. Don't test it though. This reflex fades by 6 months as they learn to grab on purpose. #BabyFacts #Shorts #BabyScience #NewbornReflex",
+      "caption_tiktok": "Your newborn can grip strong enough to hold its own body weight. An ancient primate instinct that fades by 6 months #BabyFacts #BabyScience",
+      "status": "scheduled",
+      "scheduled_date": "2026-03-28T15:00:00Z",
+      "asset_path": "videos/012-grip-reflex/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1773680994/baby-facts-unlocked/012-grip-reflex.mp4",
+      "buffer_post_ids": {
+        "youtube": "69b83aa288d05d8b0b4357c6",
+        "tiktok": "69b83aaf88d05d8b0b435828"
+      }
+    },
+    {
+      "id": "013",
+      "date": "2026-03-29",
+      "platform": "YouTube+TikTok",
+      "type": "video",
+      "pillar": "baby-science",
+      "concept": "A newborn's heart beats 120-160 times per minute — nearly twice the rate of an adult's 60-100 bpm. Their heart is the size of a walnut and has to pump faster to circulate blood through their rapidly growing body. It gradually slows to adult speed by age 10.",
+      "title": "Your Baby's Heart Beats TWICE as Fast as Yours #BabyFacts #Shorts",
+      "caption_youtube": "Your babys heart is beating ALMOST TWICE as fast as yours. Right now.\n\nA newborns heart beats 120-160 times per minute. An adult? Just 60-100. Their heart is the size of a walnut and has to pump harder to keep up with their rapidly growing body.\n\nIt gradually slows to adult speed by age 10.\n\n#BabyFacts #Shorts #NewbornScience #BabyHeart #ParentingTips",
+      "caption_tiktok": "Your babys heart beats TWICE as fast as yours right now #BabyFacts #BabyScience #NewbornLife",
+      "status": "scheduled",
+      "scheduled_date": "2026-03-29T15:00:00Z",
+      "asset_path": "videos/013-heartbeat-speed/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1773754037/baby-facts-unlocked/013-heartbeat-speed.mp4",
+      "buffer_post_ids": {
+        "youtube": "69b9575856e5a6c3f763f38a",
+        "tiktok": "69b9576c56e5a6c3f763f419"
+      }
     }
   ]
 }
